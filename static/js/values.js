@@ -49,7 +49,7 @@ value('translation', {
     'submit-feedback': '汇报页面上的问题',
 
     // GitHub issue template: update repo and messaging when translating.
-    'github-repo': 'github.com/Go-zh/tour',
+    'github-repo': '',
     'issue-title': '[简单描述一下要汇报的问题]',
     'issue-message': '请修改上方的标题来简要描述要汇报的问题，并把详细的内容写在这里，如果可能的话请附上源代码',
     'context': '上下文',
