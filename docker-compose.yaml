@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  galaxy:
+    container_name: "tour"
+    image: tour:latest
+    restart: always
+#    environment:
+#      GOROOT: "/usr/local/go"
+    ports:
+      - "3999:3999"
